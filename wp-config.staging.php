@@ -24,6 +24,13 @@ define('DB_PASSWORD', 'steel1992');
 /** MySQL hostname */
 define('DB_HOST', 'orgona2-180958.mysql.binero.se');
 
+/** Database Charset to use in creating database tables. */
+define('DB_CHARSET', 'utf8');
+
+/** The Database Collate type. Don't change this if in doubt. */
+define('DB_COLLATE', '');
+
+
 define('WP_SITEURL', 'http://orgona.mediahelpcrm.se');
 define('WP_HOME', 'http://orgona.mediahelpcrm.se');
 
