@@ -13,19 +13,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', '180958-ljungdahls');
+define('DB_NAME', '180958-orgona');
 
 /** MySQL database username */
-define('DB_USER', '180958_gw71882');
+define('DB_USER', '180958_hb47074');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'steel1992');
 
 /** MySQL hostname */
-define('DB_HOST', 'ljungdahls-180958.mysql.binero.se');
+define('DB_HOST', 'orgona-180958.mysql.binero.se');
 
-define('WP_SITEURL', 'http://ljungdahls.mediahelpcrm.se');
-define('WP_HOME', 'http://ljungdahls.mediahelpcrm.se');
+define('WP_SITEURL', 'http://orgona.mediahelpcrm.se');
+define('WP_HOME', 'http://orgona.mediahelpcrm.se');
 
 /**#@+
  * Authentication Unique Keys and Salts.
